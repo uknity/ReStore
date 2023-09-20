@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Repos\\ReStore\\API\\API.csproj": {}
+    "C:\\Repos\\ReStore\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Repos\\ReStore\\API\\API.csproj": {
+    "C:\\Repos\\ReStore\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Repos\\ReStore\\API\\API.csproj",
+        "projectUniqueName": "C:\\Repos\\ReStore\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Repos\\ReStore\\API\\API.csproj",
+        "projectPath": "C:\\Repos\\ReStore\\API\\API.csproj",
         "packagesPath": "C:\\Users\\ElizabethEmerson\\.nuget\\packages\\",
-        "outputPath": "c:\\Repos\\ReStore\\API\\obj\\",
+        "outputPath": "C:\\Repos\\ReStore\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ElizabethEmerson\\AppData\\Roaming\\NuGet\\NuGet.Config",

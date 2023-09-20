@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ju8XBZAy02bL8wivoUYsdptSZzE5tGzJzj9bDhhT/Ha3Oi5m5sy6RZg4PsJSwzDkycuLsK/0WSutAIadgQb6xQ==",
+  "dgSpecHash": "AuDuWIgNIxSU/i71VN5nGfs8ujR3EiII7wYtL/cekYOuDcFiFnw0VCsCoeETDSsC0/EpXCibUhdiPPlpZZbeRQ==",
   "success": true,
-  "projectFilePath": "c:\\Repos\\ReStore\\API\\API.csproj",
+  "projectFilePath": "C:\\Repos\\ReStore\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ElizabethEmerson\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ElizabethEmerson\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
